@@ -77,9 +77,9 @@ const CardHeader = () => {
       style={{ backgroundImage: `url(${images[imageIndex]})` }}
     >
       <div className="lg:text-gray-800 text-white font-bold p-3 text-center lg:text-start justify-center flex flex-col lg:ml-0 ml-14 lg:pl-52">
-        <h2 className="lg:text-1xl text-sm">SUMMER 2024</h2>
-        <h2 className="lg:mt-20 mt-10 text-3xl lg:text-6xl">NEW COLLECTION</h2>
-        <div className="lg:mt-20 mt-10 lg:text-lg   font-normal ">
+        <h2 className="lg:text-1xl text-sm text-white">SUMMER 2024</h2>
+        <h2 className="lg:mt-20 mt-10 text-3xl lg:text-6xl text-white">NEW COLLECTION</h2>
+        <div className="lg:mt-20 mt-10 lg:text-lg text-white font-normal ">
           <p>We know large objects will act.</p>
           <p>but things on a small scale.</p>
         </div>
